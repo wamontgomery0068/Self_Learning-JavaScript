@@ -37,6 +37,6 @@ What do we have?
 />
 - This contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks or whatever else.
 
-<img src="C:\Users\wamon\Desktop\Self_Learning-JavaScript\Absolute Beginner's Guide\Chapter 1 Hello, World!\CodeSnippet\htmlSnippet\HeadingElement.PNG"
+ <img src="C:\Users\wamon\Desktop\Self_Learning-JavaScript\Absolute Beginner's Guide\Chapter 1 Hello, World!\CodeSnippet\htmlSnippet\ScriptElement.PNG"
 />
-- Heading elements allow you to specify that certain parts of your content are headings — or subheadings. 
+-  Is used to embed or reference executable code; this is typically used to embed or refer to JavaScript code.
