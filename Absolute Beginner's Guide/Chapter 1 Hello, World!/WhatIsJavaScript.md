@@ -16,5 +16,3 @@ The following example shows some old-fashioned, fresh out the kitchen JavaScript
 
 
 
-
-
