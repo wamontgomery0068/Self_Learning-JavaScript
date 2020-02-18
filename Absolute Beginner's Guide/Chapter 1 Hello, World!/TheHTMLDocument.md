@@ -32,3 +32,11 @@ What do we have?
 <img src="C:\Users\wamon\Desktop\Self_Learning-JavaScript\Absolute Beginner's Guide\Chapter 1 Hello, World!\CodeSnippet\htmlSnippet\TitleElement.PNG"
 />
 - This sets the title of your page, which is the title that appears in the browser tab the page is loaded in. It is also used to describe the page when you bookmark/favourite it.
+
+<img src="C:\Users\wamon\Desktop\Self_Learning-JavaScript\Absolute Beginner's Guide\Chapter 1 Hello, World!\CodeSnippet\htmlSnippet\BodyElement.PNG"
+/>
+- This contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks or whatever else.
+
+<img src="C:\Users\wamon\Desktop\Self_Learning-JavaScript\Absolute Beginner's Guide\Chapter 1 Hello, World!\CodeSnippet\htmlSnippet\HeadingElement.PNG"
+/>
+- Heading elements allow you to specify that certain parts of your content are headings — or subheadings. 
