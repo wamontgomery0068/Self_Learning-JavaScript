@@ -7,4 +7,12 @@ What is HTML?
 
 Anatomy of an HTML Document
 
-<font size="2">Code Typed Out by W Andrew Montgomery using visual studio code</font>
+<font size="1">Code Typed Out by W Andrew Montgomery using Visual Studio Code</font>
+<img src="C:\Users\wamon\Desktop\Self_Learning-JavaScript\Absolute Beginner's Guide\Chapter 1 Hello, World!\CodeSnippet\HTMLSkelly.PNG"
+/>
+
+What do we have?
+
+<img src="C:\Users\wamon\Desktop\Self_Learning-JavaScript\Absolute Beginner's Guide\Chapter 1 Hello, World!\CodeSnippet\DocTypeElement.PNG"
+/>
+-

@@ -10,7 +10,7 @@ JavaScript is a modern-day programming language that is a peer of HTML and CSS. 
 
 The following example shows some old-fashioned, fresh out the kitchen JavaScript:
 
-<font size="2">Code Typed Out by W Andrew Montgomery using repl.it</font>
+<font size="1">Code Typed Out by W Andrew Montgomery using repl.it</font>
 <img src="C:\Users\wamon\Desktop\Self_Learning-JavaScript\Absolute Beginner's Guide\Chapter 1 Hello, World!\CodeSnippet\DefaultCode.PNG"
 />
 
